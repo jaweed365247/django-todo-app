@@ -10,4 +10,5 @@ pipeline {
             steps {
                 echo 'Welcome to Devops'
     }
+ }
 }
