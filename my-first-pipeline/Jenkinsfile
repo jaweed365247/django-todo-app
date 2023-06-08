@@ -4,6 +4,9 @@ pipeline {
             stage('Build'){
                 steps {
                     echo 'Hello World'
+            stage('Test'){
+                steps {
+                    echo 'Welcome to devops'
             }
             
         }
