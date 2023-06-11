@@ -22,3 +22,10 @@ pipeline {
                 echo 'Hi everyone how is it'
     }
 }
+             stage('stage2'){
+            steps {
+                echo 'Hi everyone how is it'
+            }
+         }
+    }
+}
