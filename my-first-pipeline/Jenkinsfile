@@ -20,11 +20,6 @@ pipeline {
         stage('Stage2'){
             steps {
                 echo 'Hi everyone how is it'
-    }
-   } 
-         stage('Stage3'){
-            steps {
-                echo 'Hi everyone how is it'
  }
 }
 }
