@@ -16,11 +16,6 @@ pipeline {
             steps {
                 echo 'Hi everyone how is it'
             }
-        }
-         stage('stage1'){
-            steps {
-                echo 'Hi everyone how is it'
-            }
          }
     }
 }
